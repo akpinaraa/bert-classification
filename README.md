@@ -1,1 +1,1 @@
-# bert-classification
+# metin_siniflandirma
